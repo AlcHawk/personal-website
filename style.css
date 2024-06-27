@@ -1,0 +1,38 @@
+
+.gradient-background {
+    background: linear-gradient(300deg, #1a3a5a, #9ccdd5, #bfb4b4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.home-bg-img {
+    background-image: url('./Source/Continuous\ Wave.jpg');
+    opacity: 75%;
+}
+
+.text-op-img {
+    color: #000;
+    font-weight: bold;
+}
+
+.bg-maincolor1 {
+    background-color: #4c7591;
+}
+
+.bg-maincolor2 {
+    background-color: #bfb4b4;
+}
+
+.bg-maincolor3 {
+    background-color: #bfdbe4;
+}
+
+.txt-color-exp {
+    color: #1a3a5a;
+    font-size: 25px;
+}
+
+.txt-color-skill {
+    color: #f4f7f7;
+}
+
